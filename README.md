@@ -1,10 +1,6 @@
 # books-managment-system
 Lets you manage your books
 
-# Spring boot
-
-A simple Spring boot application that demonstrates the usage of RESTful API using Spring boot. 
-
 ## Tools and Technologies used
 
 * Java - 17
